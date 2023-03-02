@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magiccreate
 - 👀 I’m interested in Embedded System
-- 🌱 I’m currently learning c51
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Some interesting projects
 - 📫 How to reach me ...
 Through my email 3122773492@qq.com
